@@ -7,3 +7,4 @@ import com.driver.model.Admin;
 @Repository
 public interface AdminRepository extends JpaRepository<Admin, Integer>{
 }
+
